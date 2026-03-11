@@ -13,3 +13,6 @@ data/*.dat
 
 *.log
 .DS_Store
+builds/
+bin/
+obj/
