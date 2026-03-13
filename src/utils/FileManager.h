@@ -2,6 +2,7 @@
 #define FILE_MANAGER_H
 
 #include <fstream>
+#include <iostream>
 #include <string>
 
 class FileManager {
